@@ -1,0 +1,87 @@
+﻿ * Serving Flask app 'app'
+ * Debug mode: on
+python : WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server 
+instead.
+所在位置 C:\Users\wblxr\AppData\Local\Temp\ps-script-da3fea09-c00e-41f4-b9d6-11d20428b904.ps1:116 字符: 15
++ cd "d:\程序竞赛"; python app.py 2>&1 | Out-File -FilePath "d:\程序竞赛\server ...
++               ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: This i...server instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.208.87.9:5000
+Press CTRL+C to quit
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'C:\\Users\\wblxr\\anaconda3\\Lib\\threading.py', reloading
+ * Detected change in 'C:\\Users\\wblxr\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+ * Detected change in 'C:\\Users\\wblxr\\anaconda3\\Lib\\socketserver.py', reloading
+ * Detected change in 'C:\\Users\\wblxr\\anaconda3\\Lib\\selectors.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Detected change in 'D:\\程序竞赛\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 371-391-788
